@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://FUANCBCoCo.github.io</id>
+    <id>https://tskknmsl001.github.io</id>
     <title>冲蝗战报</title>
-    <updated>2021-06-10T16:55:33.517Z</updated>
+    <updated>2021-06-10T17:21:49.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://FUANCBCoCo.github.io"/>
-    <link rel="self" href="https://FUANCBCoCo.github.io/atom.xml"/>
+    <link rel="alternate" href="https://tskknmsl001.github.io"/>
+    <link rel="self" href="https://tskknmsl001.github.io/atom.xml"/>
     <subtitle>横空出世，莽昆仑，阅尽人间春色。
 飞起玉龙三百万，搅得周天寒彻。
 夏日消溶，江河横溢，人或为鱼鳖。
@@ -14,25 +14,25 @@
 安得倚天抽宝剑，把汝裁为三截？
 一截遗欧，一截赠美，一截还东国。
 太平世界，环球同此凉热。</subtitle>
-    <logo>https://FUANCBCoCo.github.io/images/avatar.png</logo>
-    <icon>https://FUANCBCoCo.github.io/favicon.ico</icon>
+    <logo>https://tskknmsl001.github.io/images/avatar.png</logo>
+    <icon>https://tskknmsl001.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 冲蝗战报</rights>
     <entry>
         <title type="html"><![CDATA[冲蝗战报第二期]]></title>
-        <id>https://FUANCBCoCo.github.io/post/chong-huang-zhan-bao-di-er-qi/</id>
-        <link href="https://FUANCBCoCo.github.io/post/chong-huang-zhan-bao-di-er-qi/">
+        <id>https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-er-qi/</id>
+        <link href="https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-er-qi/">
         </link>
         <updated>2021-06-10T13:51:04.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://FUANCBCoCo.github.io/post-images/1623333129912.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://tskknmsl001.github.io/post-images/1623333129912.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[冲蝗战报第一期]]></title>
-        <id>https://FUANCBCoCo.github.io/post/chong-huang-zhan-bao-di-yi-qi/</id>
-        <link href="https://FUANCBCoCo.github.io/post/chong-huang-zhan-bao-di-yi-qi/">
+        <id>https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-yi-qi/</id>
+        <link href="https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-yi-qi/">
         </link>
         <updated>2021-06-10T09:07:34.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://FUANCBCoCo.github.io/post-images/1623316118458.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://tskknmsl001.github.io/post-images/1623316118458.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
