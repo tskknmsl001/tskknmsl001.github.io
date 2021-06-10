@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FUANCBCoCo.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-06-10T09:10:53.561Z</updated>
+    <title>冲蝗战报</title>
+    <updated>2021-06-10T09:15:56.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://FUANCBCoCo.github.io"/>
     <link rel="self" href="https://FUANCBCoCo.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>横空出世，莽昆仑，阅尽人间春色。
+飞起玉龙三百万，搅得周天寒彻。
+夏日消溶，江河横溢，人或为鱼鳖。
+千秋功罪，谁人曾与评说？
+而今我谓昆仑：不要这高，不要这多雪。
+安得倚天抽宝剑，把汝裁为三截？
+一截遗欧，一截赠美，一截还东国。
+太平世界，环球同此凉热。温故而知新</subtitle>
     <logo>https://FUANCBCoCo.github.io/images/avatar.png</logo>
     <icon>https://FUANCBCoCo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 冲蝗战报</rights>
     <entry>
         <title type="html"><![CDATA[冲蝗战报第一期]]></title>
         <id>https://FUANCBCoCo.github.io/post/chong-huang-zhan-bao-di-yi-qi/</id>
