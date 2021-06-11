@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tskknmsl001.github.io</id>
     <title>冲蝗战报</title>
-    <updated>2021-06-10T17:59:26.439Z</updated>
+    <updated>2021-06-11T02:36:29.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tskknmsl001.github.io"/>
     <link rel="self" href="https://tskknmsl001.github.io/atom.xml"/>
@@ -17,6 +17,24 @@
     <logo>https://tskknmsl001.github.io/images/avatar.png</logo>
     <icon>https://tskknmsl001.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 冲蝗战报</rights>
+    <entry>
+        <title type="html"><![CDATA[冲蝗战报第四期]]></title>
+        <id>https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-si-qi/</id>
+        <link href="https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-si-qi/">
+        </link>
+        <updated>2021-06-11T02:35:32.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://tskknmsl001.github.io/post-images/1623378958109.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冲蝗战报第三期]]></title>
+        <id>https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-san-qi/</id>
+        <link href="https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-san-qi/">
+        </link>
+        <updated>2021-06-11T02:34:37.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://tskknmsl001.github.io/post-images/1623378902551.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冲蝗战报第二期]]></title>
         <id>https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-er-qi/</id>
