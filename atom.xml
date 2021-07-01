@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tskknmsl001.github.io</id>
     <title>冲蝗战报</title>
-    <updated>2021-06-16T14:45:48.675Z</updated>
+    <updated>2021-07-01T14:11:53.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tskknmsl001.github.io"/>
     <link rel="self" href="https://tskknmsl001.github.io/atom.xml"/>
@@ -17,6 +17,21 @@
     <logo>https://tskknmsl001.github.io/images/avatar.png</logo>
     <icon>https://tskknmsl001.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 冲蝗战报</rights>
+    <entry>
+        <title type="html"><![CDATA[冲蝗战报第五十二期（终刊）]]></title>
+        <id>https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-wu-shi-er-qi-zhong-kan/</id>
+        <link href="https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-wu-shi-er-qi-zhong-kan/">
+        </link>
+        <updated>2021-07-01T14:03:54.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://tskknmsl001.github.io/post-images/1625148261557.jpg" alt="" loading="lazy"><br>
+<img src="https://tskknmsl001.github.io/post-images/1625148267529.jpg" alt="" loading="lazy"><br>
+<img src="https://tskknmsl001.github.io/post-images/1625148270749.jpg" alt="" loading="lazy"><br>
+<img src="https://tskknmsl001.github.io/post-images/1625148273768.jpg" alt="" loading="lazy"><br>
+<img src="https://tskknmsl001.github.io/post-images/1625148276754.jpg" alt="" loading="lazy"><br>
+<img src="https://tskknmsl001.github.io/post-images/1625148279438.jpg" alt="" loading="lazy"><br>
+<img src="https://tskknmsl001.github.io/post-images/1625148282849.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冲蝗战报第五十期]]></title>
         <id>https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-wu-shi-qi/</id>
@@ -134,19 +149,6 @@
 <img src="https://tskknmsl001.github.io/post-images/1623424024876.jpg" alt="" loading="lazy"><br>
 <img src="https://tskknmsl001.github.io/post-images/1623424028400.jpg" alt="" loading="lazy"><br>
 <img src="https://tskknmsl001.github.io/post-images/1623424031571.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冲蝗战报第四十六期]]></title>
-        <id>https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-si-shi-liu-qi/</id>
-        <link href="https://tskknmsl001.github.io/post/chong-huang-zhan-bao-di-si-shi-liu-qi/">
-        </link>
-        <updated>2021-06-11T15:04:51.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://tskknmsl001.github.io/post-images/1623423916064.jpg" alt="" loading="lazy"><br>
-<img src="https://tskknmsl001.github.io/post-images/1623423931805.jpg" alt="" loading="lazy"><br>
-<img src="https://tskknmsl001.github.io/post-images/1623423935300.jpg" alt="" loading="lazy"><br>
-<img src="https://tskknmsl001.github.io/post-images/1623423938059.jpg" alt="" loading="lazy"><br>
-<img src="https://tskknmsl001.github.io/post-images/1623423940813.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
